@@ -62,7 +62,7 @@ Project descriptions distinguish concept work from real client work and avoid un
 
 ## Portfolio
 
-The portfolio source lives in [eclat27/portfolio](https://github.com/eclat27/portfolio).
+🌐 **Live portfolio:** https://vladimir-kim-portfolio.vercel.app\n\nThe source lives in [eclat27/portfolio](https://github.com/eclat27/portfolio).
 
 ---
 
